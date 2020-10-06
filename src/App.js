@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    hello world
+    This app uses reactjs
     </div>
   );
 }
